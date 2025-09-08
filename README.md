@@ -9,7 +9,6 @@
     <nav>
       <a href="Week2Project/index.html">Week 2 Project</a>
       <a href="Week3Project/index.html">Week 3 Project</a>
-   
     </nav>
   </body>
 </html>
