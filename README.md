@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-   WEB 110 Fall 2025 Demonstrations
+   WEB 110 Projects 
   </head>
   <body>
     <h1>WEB110 Fall 2025 Demonstrations</h1>
