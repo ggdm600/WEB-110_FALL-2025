@@ -7,7 +7,7 @@
   <body>
     <h1>WEB 110 Projects</h1>
     <nav>
-      <a href="index.html">Home</a>
+      <a href="index.md">Home</a>
       <a href="Week2Project.html">Week 2 Project</a>
     </nav>
   </body>
