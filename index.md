@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-   WEB 110 Projects 
+    <title>WEB 110 Projects</title>
   </head>
   <body>
     <h1>WEB 110 Projects</h1>
