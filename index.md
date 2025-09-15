@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>WEB 110 Projects</title>
+    WEB 110 Projects
     <meta charset="UTF-8">
   </head>
   <body>
