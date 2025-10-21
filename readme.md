@@ -10,7 +10,7 @@
       <a href="https://ggdm600.github.io/WEB-110_FALL-2025/index.html">Home</a>
       <a href="https://ggdm600.github.io/WEB-110_FALL-2025/Week2Project/home.html">Week 2 Project</a>
       <a href="https://ggdm600.github.io/WEB-110_FALL-2025/Week4Project/home.html">Week 4 Project</a>
-      <a href="https://ggdm600.github.io/WEB-110_FALL-2025/Week6Project/home.html">Week 4 Project</a>
+      <a href="https://ggdm600.github.io/WEB-110_FALL-2025/Week6Project/home.html">Week 6 Project</a>
     </nav>
   </body>
 </html>
