@@ -1,7 +1,7 @@
 /*Gabriel Garza 10/21/2025*/
 
 body{font-family: Arial, Helvetica, sans-serif;
-     background: url('/images/background.jpg') no-repeat center fixed;}
+     background: url('images/background.jpg') no-repeat center fixed;}
 
 main{background-color: white;
      width: 50%;
