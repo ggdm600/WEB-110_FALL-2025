@@ -1,0 +1,66 @@
+<!--Gabriel Garza, 12/7/25-Feedback Page-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bread Feedback Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="wrapper">
+        <nav>
+            <ul>
+                <li><a href="final1.html">Home</a></li>
+                <li><a href="final2.html">Recipe</a></li>
+                <li><a href="final3.html">Feedback</a></li>
+                <li><a href="final4.html">Credits</a></li>
+            </ul>
+        </nav>
+
+        <h1>Bread Feedback Form</h1>
+        <img src="images/Sliced-bread.png" alt="Sliced bread">
+
+        <form action="#" method="post">
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email">
+
+            <label for="bake_date">Date you tried the recipe:</label>
+            <input type="date" id="bake_date" name="bake_date">
+
+            <label>How would you rate this recipe?</label>
+            <input type="radio" id="excellent" name="rating" value="excellent">
+            <label for="excellent">Excellent</label>
+            <input type="radio" id="good" name="rating" value="good">
+            <label for="good">Good</label>
+            <input type="radio" id="average" name="rating" value="average">
+            <label for="average">Average</label>
+            <input type="radio" id="poor" name="rating" value="poor">
+            <label for="poor">Poor</label>
+
+            <label>Which aspects did you like? (check all that apply)</label>
+            <input type="checkbox" id="taste" name="feedback" value="taste">
+            <label for="taste">Taste</label>
+            <input type="checkbox" id="texture" name="feedback" value="texture">
+            <label for="texture">Texture</label>
+            <input type="checkbox" id="ease" name="feedback" value="ease">
+            <label for="ease">Ease of making</label>
+
+            <label for="comments">Additional comments or suggestions:</label>
+            <textarea id="comments" name="comments" rows="4" placeholder="What did you like? Any improvements?"></textarea>
+
+            <label for="bread_type">Which instructions did you use?</label>
+            <select id="bread_type" name="bread_type">
+                <option value="white">With mixer</option>
+                <option value="wheat">By hand</option>
+                <option value="wheat">Other</option>
+            </select>
+
+            <input type="submit" value="Submit Feedback">
+            <input type="reset" value="Clear Form">
+        </form>
+    </div>
+</body>
+</html>
